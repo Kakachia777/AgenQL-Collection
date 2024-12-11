@@ -19,48 +19,6 @@ A comprehensive collection of Python examples demonstrating various web automati
 
 ## 📁 Project Structure
 
-```
-AgenQL-Examples/
-│
-├── close_cookie_dialog/               # Handle cookie consent popups
-│
-├── close_popup/                       # Manage website popups 
-│
-├── collect_ecommerce_pricing_data/    # Scrape e-commerce pricing
-│
-├── compare_product_prices/            # Compare prices across platforms
-│
-├── first_steps/                       # Getting started examples
-│
-├── get_by_prompt/                     # Prompt-based interactions
-│
-├── humanlike-antibot/                 # Anti-bot detection examples
-│
-├── infinite_scroll/                   # Handle infinite scrolling pages
-│
-├── interact_with_external_or_existing_browser/
-│
-├── list_query_usage/                  # Query usage examples
-│
-├── log_into_sites/                    # Authentication examples
-│
-├── perform_sentiment_analysis/         # Text analysis examples
-│
-├── run_script_in_headless_browser/
-│
-├── run_script_online_in_google_colab/
-│
-├── save_and_load_authenticated_session/
-│
-├── stealth_mode/                      # Stealth browsing examples
-│
-├── submit_form/                       # Form handling examples
-│
-├── wait_for_entire_page_load/         # Page loading management
-│
-└── xpath/                             # XPath selection examples
-```
-
 ## 🛠️ Installation
 
 1. Clone the repository:
